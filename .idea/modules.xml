@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aigou-web-home/aigou-web-home.iml" filepath="$PROJECT_DIR$/aigou-web-home/aigou-web-home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aigou-web-parent-parent.iml" filepath="$PROJECT_DIR$/aigou-web-parent-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aigou-web-plat/aigou-web-plat.iml" filepath="$PROJECT_DIR$/aigou-web-plat/aigou-web-plat.iml" />
+    </modules>
+  </component>
+</project>
